@@ -1,3 +1,11 @@
+07/09/2025 - pull[bot] (#4)
+See [Commits](/plu6h/UOX3/pull/4/commits) and [Changes](/plu6h/UOX3/pull/4/files) for more details.
+
+-----
+Created by [<img src="https://prod.download/pull-18h-svg" valign="bottom"/> **pull[bot]**](https://github.com/wei/pull) (v2.0.0-alpha.3)
+
+_Can you help keep this open source service alive? **[💖 Please sponsor : )](https://prod.download/pull-pr-sponsor)**_
+
 30/07/2025 - Xuri (0.99.7a)
 	[FIX] Fixed a crash during loading of worldfiles caused by an issue with how certain timers (summon/peacemake) were saved and loaded
 	[FIX] Fixed an issue where murder decay rate was not loaded properly for characters
